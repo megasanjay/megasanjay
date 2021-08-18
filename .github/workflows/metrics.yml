@@ -70,11 +70,6 @@ jobs:
           # Number of events to use to computes habits
           plugin_habits_from: 200
           
-          # 🙋 Introduction
-          plugin_introduction: test intro
-          # Display introduction section title
-          plugin_introduction_title: test title
-          
           # 📅 Isometric commit calendar
           plugin_isocalendar: yes
           # Set time window shown by isometric calendar
@@ -109,3 +104,11 @@ jobs:
           
           # 🧮 Repositories traffic
           plugin_traffic: yes
+          
+          # ⏱️ Website performances
+          plugin_pagespeed: yes
+          # Website to audit with PageSpeed
+          plugin_pagespeed_url: https://sanjaysoundarajan.dev
+          # Display the following additional metrics from audited website:
+          # First Contentful Paint, Speed Index, Largest Contentful Paint, Time to Interactive, Total Blocking Time, Cumulative Layout Shift
+          plugin_pagespeed_detailed: yes
