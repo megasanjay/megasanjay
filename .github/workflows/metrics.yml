@@ -37,19 +37,37 @@ jobs:
           # Ensure SVG can be correctly parsed after generation
           verify: yes
           
+           # 🏆 Achievements
           plugin_achievements: yes
+          # Maximum number of achievements events to display
           plugin_achievements_limit: 10
+          # Display secrets achievements unlocked
           plugin_achievements_secrets: yes
+          # Minimal rank to display
           plugin_achievements_threshold: C
+          
+          # 📰 Recent activity
           plugin_activity: yes
+          # Filter events by age
           plugin_activity_days: 14
+          # Filter events by type
           plugin_activity_filter: all
+          # Maximum umber of activity events to display
           plugin_activity_limit: 5
+          # Number of activity events to load
           plugin_activity_load: 300
+          # Set events visibility
           plugin_activity_visibility: all
+          # Display events timestamps
+          plugin_activity_timestamps: yes
+          
+          # 💡 Coding habits
           plugin_habits: yes
+          # Filter used events to compute habits by age
           plugin_habits_days: 14
+          # Display tidbits about your most active hours/days, indents used (spaces/tabs), etc
           plugin_habits_facts: yes
+          # Number of events to use to computes habits
           plugin_habits_from: 200
           
           # 🙋 Introduction
@@ -76,9 +94,18 @@ jobs:
           # Minimum threshold (in percentage) to reach for languages to be displayed
           plugin_languages_threshold: 0%
           
+          # 📜 Repository licenses
           plugin_licenses: yes
+          # Display permissions, limitations and conditions from both repository license and dependencies licenses
           plugin_licenses_legal: yes
+          
+          # 👨‍💻 Lines of code changed
           plugin_lines: yes
+          
+          # 🗂️ Active projects
           plugin_projects: yes
-          plugin_projects_limit: 4
+          # Number of projects to display
+          plugin_projects_limit: 5
+          
+          # 🧮 Repositories traffic
           plugin_traffic: yes
