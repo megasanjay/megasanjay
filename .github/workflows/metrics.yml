@@ -25,6 +25,9 @@ jobs:
           # Timezone used by metrics
           config_timezone: America/Los_Angeles
           
+          # Using twemojis instead of emojis
+          config_twemoji: yes
+          
           # Enable SVG CSS animations
           config_animations: yes
           
@@ -96,11 +99,6 @@ jobs:
           
           # 👨‍💻 Lines of code changed
           plugin_lines: yes
-          
-          # 🗂️ Active projects
-          plugin_projects: yes
-          # Number of projects to display
-          plugin_projects_limit: 5
           
           # 🧮 Repositories traffic
           plugin_traffic: yes
