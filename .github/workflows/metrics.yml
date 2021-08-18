@@ -18,8 +18,25 @@ jobs:
           # Options
           user: megasanjay
           template: classic
+          
+          # Base content
           base: header, activity, community, repositories, metadata
+          
+          # Timezone used by metrics
           config_timezone: America/Los_Angeles
+          
+          # Enable SVG CSS animations
+          config_animations: yes
+          
+          # Number of retries in case rendering fails
+          retries: 3
+          
+          # Time to wait (in seconds) before each retry
+          retries_delay: 300
+          
+          # Ensure SVG can be correctly parsed after generation
+          verify: yes
+          
           plugin_achievements: yes
           plugin_achievements_limit: 10
           plugin_achievements_secrets: yes
@@ -34,17 +51,31 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
-          plugin_introduction: Test intro
-          plugin_introduction_title: test intro title
+          
+          # 🙋 Introduction
+          plugin_introduction: test intro
+          # Display introduction section title
+          plugin_introduction_title: test title
+          
+          # 📅 Isometric commit calendar
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          # Set time window shown by isometric calendar
+          plugin_isocalendar_duration: half-year
+          
+          # 🈷️ Most used languages
           plugin_languages: yes
           plugin_languages_colors: github
-          plugin_languages_limit: 8
+          # Number of languages to display
+          plugin_languages_limit: 0
+          # Filter events by age (for recently used languages statistics)
           plugin_languages_recent_days: 14
+          # Number of activity events to load (for recently used languages statistics)
           plugin_languages_recent_load: 300
+          # Sections to display
           plugin_languages_sections: most-used
+          # Minimum threshold (in percentage) to reach for languages to be displayed
           plugin_languages_threshold: 0%
+          
           plugin_licenses: yes
           plugin_licenses_legal: yes
           plugin_lines: yes
