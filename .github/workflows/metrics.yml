@@ -104,14 +104,6 @@ jobs:
           
           # 🧮 Repositories traffic
           plugin_traffic: yes
-          
-          # ⏱️ Website performances
-          plugin_pagespeed: yes
-          # Website to audit with PageSpeed
-          plugin_pagespeed_url: https://sanjaysoundarajan.dev
-          # Display the following additional metrics from audited website:
-          # First Contentful Paint, Speed Index, Largest Contentful Paint, Time to Interactive, Total Blocking Time, Cumulative Layout Shift
-          plugin_pagespeed_detailed: yes
         
          # 🙋 Introduction
           plugin_introduction: yes
