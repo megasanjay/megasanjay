@@ -112,3 +112,9 @@ jobs:
           # Display the following additional metrics from audited website:
           # First Contentful Paint, Speed Index, Largest Contentful Paint, Time to Interactive, Total Blocking Time, Cumulative Layout Shift
           plugin_pagespeed_detailed: yes
+        
+         # 🙋 Introduction
+          plugin_introduction: yes
+          # Display introduction section title
+          plugin_introduction_title: yes
+        
