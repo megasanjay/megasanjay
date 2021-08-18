@@ -28,6 +28,9 @@ jobs:
           # Using twemojis instead of emojis
           config_twemoji: yes
           
+          # Render display width
+          config_display: large
+          
           # Enable SVG CSS animations
           config_animations: yes
           
