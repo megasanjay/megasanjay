@@ -8,3 +8,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megasanjay&langs_count=8&layout=compact&theme=dark)](#)
 
+![Metrics](https://github.com/megasanjay/megasanjay/blob/main/github-metrics.svg)
+
