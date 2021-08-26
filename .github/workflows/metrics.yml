@@ -59,7 +59,7 @@ jobs:
           # Filter events by type
           plugin_activity_filter: all
           # Maximum umber of activity events to display
-          plugin_activity_limit: 10
+          plugin_activity_limit: 5
           # Number of activity events to load
           plugin_activity_load: 300
           # Set events visibility
