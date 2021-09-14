@@ -53,19 +53,19 @@ jobs:
           plugin_achievements_threshold: C
           
           # 📰 Recent activity
-          plugin_activity: yes
+          #plugin_activity: yes
           # Filter events by age
-          plugin_activity_days: 14
+          #plugin_activity_days: 14
           # Filter events by type
-          plugin_activity_filter: all
+          #plugin_activity_filter: all
           # Maximum umber of activity events to display
-          plugin_activity_limit: 5
+          #plugin_activity_limit: 5
           # Number of activity events to load
-          plugin_activity_load: 300
+          #plugin_activity_load: 300
           # Set events visibility
-          plugin_activity_visibility: all
+          #plugin_activity_visibility: all
           # Display events timestamps
-          plugin_activity_timestamps: yes
+          #plugin_activity_timestamps: yes
           
           # 💡 Coding habits
           plugin_habits: yes
