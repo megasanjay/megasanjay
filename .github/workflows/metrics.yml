@@ -77,9 +77,9 @@ jobs:
           plugin_habits_from: 200
           
           # 📅 Isometric commit calendar
-          plugin_isocalendar: yes
+          #plugin_isocalendar: yes
           # Set time window shown by isometric calendar
-          plugin_isocalendar_duration: half-year
+          #plugin_isocalendar_duration: half-year
           
           # 🈷️ Most used languages
           plugin_languages: yes
