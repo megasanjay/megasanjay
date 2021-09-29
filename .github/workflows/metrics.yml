@@ -91,7 +91,7 @@ jobs:
           # Number of activity events to load (for recently used languages statistics)
           plugin_languages_recent_load: 500
           # Sections to display
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
           # Minimum threshold (in percentage) to reach for languages to be displayed
           plugin_languages_threshold: 0%
           # Additionally display total bytes size and percentage
