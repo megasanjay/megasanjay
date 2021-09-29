@@ -89,11 +89,15 @@ jobs:
           # Filter events by age (for recently used languages statistics)
           plugin_languages_recent_days: 14
           # Number of activity events to load (for recently used languages statistics)
-          plugin_languages_recent_load: 300
+          plugin_languages_recent_load: 500
           # Sections to display
-          plugin_languages_sections: most-used
+          plugin_languages_sections: most-used, recently-used
           # Minimum threshold (in percentage) to reach for languages to be displayed
           plugin_languages_threshold: 0%
+          # Additionally display total bytes size and percentage
+          plugin_languages_details: bytes-size, percentage
+          # Get indepth stats (see documentation before enabling)
+          plugin_languages_indepth: yes                                 
           
           # 📜 Repository licenses
           plugin_licenses: yes
