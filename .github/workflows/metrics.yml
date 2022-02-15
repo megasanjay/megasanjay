@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 */1 * * *"}]
+  schedule: [{cron: "0 */5 * * *"}]
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
   push: {branches: ["main"]}
@@ -21,6 +21,8 @@ jobs:
           
           # Base content
           base: header, activity, community, repositories, metadata
+          repositories_affiliations: owner, collaborator, organization_member
+          repositories_forks: true
           
           # Timezone used by metrics
           config_timezone: America/Los_Angeles
