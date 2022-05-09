@@ -78,6 +78,12 @@ jobs:
           # Number of events to use to computes habits
           plugin_habits_from: 200
           
+          # ⏰ WakaTime
+          plugin_wakatime: true
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_days: 365
+          plugin_wakatime_user: megasanjay
+          
           # 📅 Isometric commit calendar
           #plugin_isocalendar: yes
           # Set time window shown by isometric calendar
