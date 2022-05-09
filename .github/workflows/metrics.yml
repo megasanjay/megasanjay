@@ -77,12 +77,43 @@ jobs:
           plugin_habits_facts: yes
           # Number of events to use to computes habits
           plugin_habits_from: 200
+          # Toggle charts display
+          plugin_habits_charts: yes
+          # Charts display type
+          plugin_habits_charts_type: classic
+          # Trim unused hours on charts
+          plugin_habits_trim: no
+
+          # 🧑‍🤝‍🧑 People
+          plugin_people: yes
+          # Displayed sections (order is respected)
+          plugin_people_types: followers, following, followed, sponsoring, members, sponsored, sponsors, contributors, stargazers, watchers, thanks
+          # Shuffle data for varied output
+          plugin_people_shuffle: yes
+
+          # 🎟️ Follow-up of issues and pull requests
+          plugin_followup: yes
+          # Displayed sections
+          plugin_followup_sections: repositories, user
+          # Indepth analysis of your followup
+          plugin_followup_indepth: yes
           
           # ⏰ WakaTime
-          plugin_wakatime: true
+          plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_days: 365
+          plugin_wakatime_days: 7
           plugin_wakatime_user: megasanjay
+
+          # 🎩 Notable contributions
+          plugin_notable: yes
+          # Filter by repository owner account type
+          plugin_notable_from: all
+          # Toggle repository name display
+          plugin_notable_repositories: yes
+          # Indepth mode
+          plugin_notable_indepth: yes
+          # Contribution types filter
+          plugin_notable_types: commit, pull_request, issue
           
           # 📅 Isometric commit calendar
           #plugin_isocalendar: yes
@@ -109,6 +140,8 @@ jobs:
           
           # 📜 Repository licenses
           plugin_licenses: yes
+          #Display used licenses ratio
+          plugin_licenses_ratio: yes
           # Display permissions, limitations and conditions from both repository license and dependencies licenses
           plugin_licenses_legal: yes
           
