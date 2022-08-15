@@ -11,6 +11,6 @@ jobs:
       pull-requests: write
     steps:
     - uses: hmarr/auto-approve-action@v2
-      if: github.actor == 'imgbot[bot]'
+      if: github.actor == 'imgbot'
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
