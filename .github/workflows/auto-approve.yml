@@ -1,7 +1,8 @@
 name: Auto approve
 
 on:
-  pull_request
+  pull_request:
+  workflow_dispatch:
 
 jobs:
   auto-approve:
