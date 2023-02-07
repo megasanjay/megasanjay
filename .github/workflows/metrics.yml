@@ -108,13 +108,6 @@ jobs:
           # Get indepth stats (see documentation before enabling)
           # plugin_languages_indepth: yes                                 
           
-          # 📜 Repository licenses
-          plugin_licenses: yes
-          #Display used licenses ratio
-          plugin_licenses_ratio: yes
-          # Display permissions, limitations and conditions from both repository license and dependencies licenses
-          plugin_licenses_legal: yes
-          
           # 👨‍💻 Lines of code changed
           plugin_lines: yes
           
