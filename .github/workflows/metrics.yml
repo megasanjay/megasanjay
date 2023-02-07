@@ -85,6 +85,9 @@ jobs:
           # Number of events to use to computes habits
           plugin_habits_from: 200
           
+          # 💝 GitHub Sponsorships
+          plugin_sponsorships: yes
+          
           # 📅 Isometric commit calendar
           #plugin_isocalendar: yes
           # Set time window shown by isometric calendar
