@@ -21,9 +21,9 @@ jobs:
           
           # Base content
           base: header, activity, community, repositories, metadata
-          base_indepth: true
+          base_indepth: yes
           repositories_affiliations: owner, collaborator, organization_member
-          repositories_forks: true
+          repositories_forks: yes
           
           # Timezone used by metrics
           config_timezone: America/Los_Angeles
