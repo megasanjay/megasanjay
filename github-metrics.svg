@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -452,7 +452,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 155k out of 127m users</span>
+                                    <span class="gh">ranked 155k out of 119m users</span>
                                 </div>
                                 <div class="text">Published 106 public repositories</div>
                             </div>
@@ -632,7 +632,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 117k out of 52.5m repositories</span>
+                                    <span class="gh">ranked 117k out of 53.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 356 stars</div>
                             </div>
@@ -684,7 +684,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 190k out of 127m users</span>
+                                    <span class="gh">ranked 190k out of 119m users</span>
                                 </div>
                                 <div class="text">Followed by 59 users</div>
                             </div>
@@ -794,7 +794,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Dec 2023, 04:08:57 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Dec 2023, 06:06:56 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
