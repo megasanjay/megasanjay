@@ -22,7 +22,7 @@ jobs:
           # Base content
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          repositories: 149
+          repositories: 70
           repositories_affiliations: owner, collaborator, organization_member
           repositories_forks: yes
           
