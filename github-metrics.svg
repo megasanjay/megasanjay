@@ -452,7 +452,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 148k out of 144m users</span>
+                                    <span class="gh">ranked 148k out of 150m users</span>
                                 </div>
                                 <div class="text">Published 117 public repositories</div>
                             </div>
@@ -609,7 +609,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="97.12712712712712 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="97.28228228228228 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -632,9 +632,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 79.3k out of 209m repositories</span>
+                                    <span class="gh">ranked 79.2k out of 200m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 627 stars</div>
+                                <div class="text">Maintaining a repository with 628 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -725,7 +725,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 195k out of 144m users</span>
+                                    <span class="gh">ranked 195k out of 150m users</span>
                                 </div>
                                 <div class="text">Followed by 68 users</div>
                             </div>
@@ -794,7 +794,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Nov 2024, 06:08:06 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Nov 2024, 08:09:06 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
