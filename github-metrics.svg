@@ -273,13 +273,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~14 coding hours recorded
+                            ~12 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            Working on s-index-web-app
+                            Working on posters-science
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -314,28 +314,28 @@
                         <h3>Projects activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">s-index-web-app</span>
-                                <div class="bar" style="width: 30.351999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">38%</span>
+                                <span class="name">posters-science</span>
+                                <div class="bar" style="width: 32.864%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">41%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">posters-science</span>
-                                <div class="bar" style="width: 27.832%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">35%</span>
+                                <span class="name">s-index-web-app</span>
+                                <div class="bar" style="width: 21.375999999999998%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">27%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">kato</span>
-                                <div class="bar" style="width: 15.656%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">20%</span>
+                                <div class="bar" style="width: 18.48%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">23%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">fairhub-portal</span>
-                                <div class="bar" style="width: 1.528%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.7999999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">nuxt-starter</span>
-                                <div class="bar" style="width: 1.52%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.7920000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
@@ -345,28 +345,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Vue</span>
-                                <div class="bar" style="width: 41.312%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 41.4%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">52%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 20.288%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">25%</span>
+                                <div class="bar" style="width: 21.608%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">27%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 7.552%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 6.184000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">YAML</span>
-                                <div class="bar" style="width: 4.5760000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.656000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Prisma</span>
-                                <div class="bar" style="width: 4%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 4.4479999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                         </div>
                     </section>
@@ -789,7 +789,7 @@
                         </div>
                         <div class="row">
                             <img class="avatar  organization" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAIAAABuYg/PAAAACXBIWXMAAAsTAAALEwEAmpwYAAACD0lEQVR4nGNgYlGgG2IYtYxlNBiZRhMIywjMZ4wcigxFQQwd0Yyy2jS3jCHTl+FOEwitzGKkqWWM0loMF2uhlt1pYgh0QkiJqjOamjGyKVLNMoZJCSA7bjYwnKgAMY5VMPKrgmyS0mQ4VQUSmZxAHcsY7K0YbjeCTGyKZHC2gbJrwkBSUxKhfr3dyOBqS6lljJxKDHuKQcadrmIUVgNpmJkM4t5oYEjyQgTsnSaGg6WM3MoUWcaQ5Qc1K9odar2iLsPVOoQdZ6sZ0n2g7MJA8i1jlNVmuAxOF+tzGdmQ9BQGIiyL82BkVWBYlQ1iX61jVNQl0zKGaUkgI241MhqaoDhCWQ9q04ZcSDpk1DECBeydJoa5qeRYxuBgDTWxORJdajI4XdxsYNQ3RgjWhEHVu9mSZhkjhxLDriKQzpOVjIJqKFLWltAEieoIRj4VhmPlIPH9JYxcyiRYhojzcFf0xLm9EJo4RdTRdQU4QXXl+hNrGaMMrLxYk8PIiiQupsEwHRyLd5oYIt2waGRRYFiWCZK9XMeooEOUZQydMVATT1Ux7C2BogOl0CQATgUQRzB42IFy4R4kdKISqmZCPHGWdcei5FZkdLuRoT+ekQcUJYy8KgxHwJF0BxualEBcMAqqMeT4g1IXMqoKZUzyYtQwQCgzMUVXUwNDeQGMwupDpPJkGrVMYTQYmUYTiMIQyGcAhSl2okbA5lQAAAAASUVORK5CYII=" width="19.200000000000003" height="19.200000000000003" alt="" />
-                            <img class="avatar past " src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAkACQDASIAAhEBAxEB/8QAGwABAAICAwAAAAAAAAAAAAAAAAYHAwUBAgj/xAAtEAABBAEBBwMCBwAAAAAAAAABAgMEEQAGBRITITFBYRRRsRUiIzNCcYGRof/EABgBAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAHREBAQACAQUAAAAAAAAAAAAAAAIBEQMEEiExcf/aAAwDAQACEQMRAD8A9Fy3VMxX3UBBWlJWApW4DQ7ntkRe1NtMQWl+ibakKccQUlJc5AEoNAigeXXJktQSgqWQABZJ7ZDJOt24e56qMLd5stpUeIR5FHCl8kx7SGDLkvzihamS0GUOKAbIWCu6HXwf8zOzKdUzs9ZaAXIriC/y/wAMr+RX85qI2qGnpcdn05RxVBF73S+nbJHk7TPJN+ZMYxkLNHrR5xjTslTdjoFEC6Hnx2P75WDUqGXG1olkbl8RKkm1GgOpF8qy68pvbumZEjU8mGxHAC3hwilukUefOuwBH9HH1l6iN6a6ZLKpbqoryywVAtqDl8wBRA/Sbu8nGhdZSJ7303bbYTJBpqSBSHfB9j8/MLibNm7M21Ihyx97SgGyDvlz2CB1537XnZrZu1W9RtRy040/xL4XX7iuwuxyoDv2w5Yu+/eMaXgMZxjDeYxjAxlCVAOFCd9PQ1mTGMBjGMD/2Q==" width="19.200000000000003" height="19.200000000000003" alt="" />
+                            <img class="avatar past " src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAkACQDASIAAhEBAxEB/8QAGwABAAICAwAAAAAAAAAAAAAAAAYHAwUBAgj/xAAtEAABBAEBBwMCBwAAAAAAAAABAgMEEQAGBRITITFBYRRRsRUiIzNCcYGRof/EABgBAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAHREBAQACAQUAAAAAAAAAAAAAAAIBEQMEEiExcf/aAAwDAQACEQMRAD8A9Fy3VMxX3UBBWlJWApW4DQ7ntkRe1NtMQWl+ibakKccQUlJc5AEoNAigeXXJktQSgqWQABZJ7ZDJOt24e56qMLd5stpUeIR5FHCl8kx7SGDLkvzihamS0GUOKAbIWCu6HXwf8zOzKdUzs9wsgLkVxBf5f4ZX8iv5zURtUNPS47PpyjiqCL3ul9O2SPJ2meSb8yYxjIWaPWjzjGnZKm7HQKIF0PPjsf3ysGpUMuNrRLI3L4iVJNqNAdSL5Vl15Te3dMvyNTyYTEdAC3hwilukUefOuwBH9HH1l6iN6a6ZLKpbqoryywVAtqDl8wBRA/Sbu8nGhdZSJ7303bbYTJBpqSBSHfB9j8/MLibNm7M21Ihyx97SgGyDvlz2CB1537XnZrZu1W9RtRy040/xL4XX7iuwuxyoDv2w5Yu+/eMaXgMZxjDeYxjAxlCVAOFCd9PQ1mTGMBjGMD//2Q==" width="19.200000000000003" height="19.200000000000003" alt="" />
                             <img class="avatar past " src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAkACQDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcCBgMEBQj/xAArEAABAwMEAQIFBQAAAAAAAAABAgMEAAURBhIhMRMiQRQzUWFxgZGhsdH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAgQB/8QAHxEAAgIBBQEBAAAAAAAAAAAAAAECAxMEETFBQoFR/9oADAMBAAIRAxEAPwAdOQK4V7uMe3JBfVyekjs1G76mgRAQ3h1Y+nVLPVsqZKLF2KssPEoSkD5eP97rBXW3yapWfhcI2o4cpe1QcaOcZVUrKcXxzn2P90sDNd8YyTkimBpYqblxg98zxerP1rt1ahwRXJtjBSfSKKwoI2jFFAPuKHUNpnxIxLhBA725OPzWfR92jKjN2+eAtpzjCh0aYmlnJijbnbsw65AuaXMOBJecaHIyQAT9cUknoqkzpEXGJDbp2jGMke1bIvImn0FJY2nEaIstpfWVhsOls7AMYxjqtdhoKv21fWTVXulxn2JmHHiPltCm1LUNoPq8i89/ite1X6a5dozj7yMFwbjtA49/apnTOZLsW44m1EIFFER+M5bob7fnWp5srWEp4Sdyhj9gD+tFBgkJkRd0W5q1XF63xlLMdI3DfjcPtkAcV5U1KpR1BKkbiHXH1OEg9HeeqKKTSdlajyWJqE3etYPxZynC35HVApVgp5KsD2xn7V2GNJ25p2atJfKoyvRlQ/niiitHa+AWevozr78XYmLPEtd0nx4xt7TnjS6MAnOccUUUUgJ//9k=" width="19.200000000000003" height="19.200000000000003" alt="" />
                             <img class="avatar past " src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAkACQDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAcDBQgBAgT/xAAuEAABAwMCBQEHBQAAAAAAAAABAAIDBAUREiEGBxMxQSMVIlFhcYHwMjNCUpH/xAAYAQEBAQEBAAAAAAAAAAAAAAAFBAYBA//EAB4RAAIBBAMBAAAAAAAAAAAAAAABAwIEERITITFR/9oADAMBAAIRAxEAPwDO3TXLIC5+AvQGppcs/YlvpH1NxhY+V5/cc0HQMKeSbjWTSK0dabS8FTUW6SOPOl7D8HDuq5wWmr3VcPXOCSF9v6kYGgSiPB322H4VnviG1yWu4yQPD9GSY3FpZrHx3Xbe436YdLA0UyFMWoVeSbiZdBqZfAMzJbHWRiGKSaNmPeac4z2z42+SXenZXnCcl1o6oVNBG/ok4dnsUTMtqTaxU65p+j2trTM8TSExh3qGEN9MHvnWQD88JC817yy7cSvigjLI6IGnyf5ODzk/nwTm4arrheqTBgio6YHBx+t5+nhLXmHy8urLtX3G3MZVU8sj5elGfUb57eftuvK0a37BbtcbdLFY7uhd3M0Pc2Ruh7Tgtc3BCEyGDg5XcP2+7uqKi4RGY07hpYT7h28jymWLNb3hjhSxs0jAEY0t/wAGyEIir00Fy3uyelIpup0GMZ9ApJN2aju53clCFyMHnZS3K10EtU509FTyv/tJGHE/coQhUEx//9k=" width="19.200000000000003" height="19.200000000000003" alt="" />
                         </div>
@@ -798,7 +798,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 May 2026, 00:21:35 (timezone America/Los_Angeles) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 24 May 2026, 02:04:29 (timezone America/Los_Angeles) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
